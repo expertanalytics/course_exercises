@@ -1,4 +1,2 @@
-Never edit notebooks in solutions/ and exercises/ directly.
-
-Run `split_notebooks.py` to create notebooks in
-solutions/ and exercises/ from `source-*.ipynb`.
+## Readme
+Exercises and solution examples from the intro to python-course offered by Expert Analytics.
